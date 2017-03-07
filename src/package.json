@@ -1,0 +1,22 @@
+{
+  "name": "creative-js",
+  "version": "1.0.0",
+  "description": "A drop off for some experiments related to [Coding Math](https://www.youtube.com/user/codingmath)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewww/creative-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewww/creative-js/issues"
+  },
+  "homepage": "https://github.com/matthewww/creative-js#readme",
+  "dependencies": {
+    "typescript": "^2.2.1"
+  }
+}

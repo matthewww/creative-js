@@ -1,0 +1,28 @@
+# Config related ignores
+/Config
+/dist
+/Logs
+/tools
+/**/build
+/*.log
+
+# NPM
+node_modules
+
+# TypeScript
+typings
+
+# IDE
+/.idea/
+src/BingoClient/debug.log
+
+/**/.idea/tasks.xml
+/**/.idea/misc.xml
+/**/.idea/workspace.xml
+/**/.idea/watcherTasks.xml
+/**/.idea/deployment.xml
+/**/.idea/typescript-compiler.xml
+/**/.idea/libraries
+/**/.idea/inspectionProfiles
+/**/.idea/.name
+/**/.idea/BingoClient.iml
